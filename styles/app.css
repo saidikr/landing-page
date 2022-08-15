@@ -1,0 +1,50 @@
+
+html{
+    overflow-x: hidden;
+}
+body{
+
+    font-family: "Poppins", sans-serif;!important
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+.container{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+.hero-left{
+    padding: 50px;
+}
+header{
+    background-color: #081595;
+    margin: 0;
+    padding: 0;
+}
+#nav{
+    background-color: #081595;
+    margin: 0;
+    padding: 30px;
+    position: relative;!important
+    z-index: 999;!important
+}
+#navbarNavDropdown{
+    padding-left: 500px;
+}
+.btnn{
+    padding-bottom: 20px;
+}
+.hero{
+
+    background-color: #081595;
+}
+footer{
+    background-color: #081595;
+}
+.text-blue{
+    color: #081595;
+}
+.card{
+    width: 300px; !important
+}
